@@ -2,4 +2,9 @@ Employee portal
 version 1.0
 Login Module
 dashboard module
+<<<<<<< Updated upstream
 payroll feature fixed
+=======
+payroll feature
+Leave Module
+>>>>>>> Stashed changes
